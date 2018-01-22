@@ -1,0 +1,24 @@
+#  User's Files   #
+userdata/*
+!userdata/gitkeep
+logs/*
+watcher.zip
+core/version
+core/rss/imdb
+db/*
+core/cp_plugins/tasks.json
+
+# Compiled #
+*.pyc
+__pycache__
+/templates/cache
+
+# System Files #
+desktop.ini
+Thumbs.db
+TODO
+.*
+
+# Readme #
+README.md
+ISSUE_TEMPLATE.md
